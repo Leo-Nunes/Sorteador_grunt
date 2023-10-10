@@ -16,6 +16,7 @@
     "grunt-contrib-htmlmin": "^3.1.0",
     "grunt-contrib-less": "^3.0.0",
     "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
     "grunt-contrib-watch": "^1.1.0",
     "grunt-replace": "^2.0.2"
   },
@@ -65,7 +66,6 @@
     "global-prefix": "^1.0.2",
     "graceful-fs": "^4.2.11",
     "grunt-cli": "^1.4.3",
-    "grunt-contrib-uglify": "^5.2.2",
     "grunt-known-options": "^2.0.0",
     "grunt-legacy-log": "^3.0.0",
     "grunt-legacy-log-utils": "^2.1.0",
